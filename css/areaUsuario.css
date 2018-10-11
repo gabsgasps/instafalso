@@ -1,0 +1,32 @@
+h1{
+	text-align: center;
+	margin-bottom: 4rem;
+}
+a{
+	display: block;
+	text-decoration: none;
+}
+.container{
+	width: 100%;
+	height: auto;
+	margin: 0 auto;
+}
+
+.wrap{
+	width: 85%;
+	height: auto;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-between;
+	flex-flow: row nowrap;
+	align-items: center;
+}
+
+p{
+	text-align: center;
+}
+
+button{
+	display: block;
+	margin: 0 auto;
+}
